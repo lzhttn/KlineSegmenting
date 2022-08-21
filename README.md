@@ -2,7 +2,7 @@
 
 ## 使用方法  
 
-直接运行 K线走势切割与缠论分笔.py  
+直接运行 KlineSegmenting.py  
 
 ## 功能  
 
