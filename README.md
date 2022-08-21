@@ -14,4 +14,4 @@
 
 ## 运行环境  
 环境：Python 3.7.10, Windows 10  
-依赖: mpl_finance 0.10.1, interval 1.0.0  
+依赖：mpl_finance 0.10.1, interval 1.0.0  
