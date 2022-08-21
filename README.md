@@ -12,6 +12,6 @@
 
 3. 【可视化】作图，叠加K线和生成的分笔  
 
-## 运行环境
-Python 3.7.10, Windows10  
-依赖包: mpl_finance 0.10.1, interval 1.0.0
+## 运行环境  
+环境：Python 3.7.10, Windows 10  
+依赖: mpl_finance 0.10.1, interval 1.0.0  
